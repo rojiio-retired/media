@@ -13,6 +13,6 @@ Roji uses the following token:
 | *Download*    | [PNG version 200x200px](./roji-200x200.png) |
 |               | [SVG version](../blob/master/LICENSE) |
 | *Preview*     |  ![Roji Symbol Image](./roji-200x200.png) |
-| | |
+
 
 
